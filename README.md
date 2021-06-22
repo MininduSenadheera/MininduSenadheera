@@ -14,6 +14,7 @@
 [<img align="left" alt="MininduSenadheera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MininduSenadheera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MininduSenadheera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MininduSenadheera | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -41,4 +42,5 @@
 [twitter]: https://twitter.com/Minindu_S
 [youtube]: https://www.youtube.com/c/MininduSenadheera
 [instagram]: https://www.instagram.com/minindu_senadheera
+[facebook]: https://www.facebook.com/minindu.senadheera
 [linkedin]: www.linkedin.com/in/minindusenadheera
