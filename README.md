@@ -1,6 +1,6 @@
 ### Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Web Designer, Developer, Youtuber and a Tech Geek!!
+## I'm a Web Designer,Full Stack Developer, Youtuber and a Tech Geek!!
 
 - 🎓 I am an undergraduate at Sri Lanka Institute of Information Technology
 - 👨🏻‍💻 I’m currently learning everything 🤣
