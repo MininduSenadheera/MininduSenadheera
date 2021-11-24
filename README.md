@@ -2,9 +2,9 @@
 
 ## I'm a Web Designer,Full Stack Developer, Youtuber and a Tech Geek!!
 
-- 🎓 I am an undergraduate at Sri Lanka Institute of Information Technology
+- 🎓 I am a Data Science undergraduate at Sri Lanka Institute of Information Technology
 - 👨🏻‍💻 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn new things and build up my carrier
+- 🥅 2021 Goals: Learn new things and build up my carrier
 - 👣 Fun fact: I love to travel
 
 ### Connect with me:
