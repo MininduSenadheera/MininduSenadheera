@@ -21,14 +21,14 @@
 <div align="left">
     <img
         alt="Minindu's GitHub stats"
-        src='https://github-readme-stats.vercel.app/api?username=MininduSenadheera&show_icons=true&include_all_commits=true&count_private=true'
+        src='https://github-readme-stats.vercel.app/api?username=MininduSenadheera&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark'
     />
 </div>
 
 <div align="left">
     <img
         alt="Minindu's GitHub Top Languages"
-        src='https://github-readme-stats.vercel.app/api/top-langs/?username=MininduSenadheera&layout=compact&langs_count=10'
+        src='https://github-readme-stats.vercel.app/api/top-langs/?username=MininduSenadheera&layout=compact&langs_count=10&theme=github_dark'
     />
 </div>
 
