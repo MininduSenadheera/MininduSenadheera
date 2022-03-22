@@ -1,23 +1,27 @@
-### Hi there, I'm Minindu Senadheera 👋
+# Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Web Designer,Full Stack Developer and a Tech Geek!!
+## I'm a Web Designer,Full Stack Developer and a Tech Geek
 
 - 🎓 I am a Data Science undergraduate at Sri Lanka Institute of Information Technology
 - 👨🏻‍💻 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn new things and build up my carrier
 - 👣 Fun fact: I love to travel
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="MininduSenadheera | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MininduSenadheera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MininduSenadheera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MininduSenadheera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MininduSenadheera | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="MininduSenadheera | YouTube" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/youtube.png" />][youtube]
+[<img align="left" alt="MininduSenadheera | Twitter" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/twitter.png" />][twitter]
+[<img align="left" alt="MininduSenadheera | LinkedIn" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/linkedin.png" />][linkedin]
+[<img align="left" alt="MininduSenadheera | Instagram" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/instagram.png" />][instagram]
+[<img align="left" alt="MininduSenadheera | Facebook" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/facebook.png" />][facebook]
 
-<br />
+<br/>
 
-### Languages and Tools:
+![Minindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MininduSenadheera&show_icons=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MininduSenadheera&layout=compact&langs_count=10)
+
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -34,6 +38,8 @@
 
 <br />
 <br />
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=MininduSenadheera.MininduSenadheera)
 
 [twitter]: https://twitter.com/Minindu_S
 [youtube]: https://www.youtube.com/c/MininduSenadheera
