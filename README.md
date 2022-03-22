@@ -17,9 +17,19 @@
 
 <br/>
 
-![Minindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MininduSenadheera&show_icons=true&include_all_commits=true&count_private=true)
+<div align="left">
+    <img
+        alt="Minindu's GitHub stats"
+        src='https://github-readme-stats.vercel.app/api?username=MininduSenadheera&show_icons=true&include_all_commits=true&count_private=true'
+    />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MininduSenadheera&layout=compact&langs_count=10)
+<div align="left">
+    <img
+        alt="Minindu's GitHub Top Languages"
+        src='https://github-readme-stats.vercel.app/api/top-langs/?username=MininduSenadheera&layout=compact&langs_count=10'
+    />
+</div>
 
 ### Languages and Tools
 
