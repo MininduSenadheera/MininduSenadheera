@@ -33,7 +33,7 @@
 </div>
 
 ### Badges
-<img align="left" alt="Azure Fundermentals" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/microsoft-certified-azure-fundamentals.png" />
+<img align="left" alt="Azure Fundermentals" width="100px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/microsoft-certified-azure-fundamentals.png" />
 <img align="left" alt="Hacktitude" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46213604" />
 
 ### Languages and Tools
