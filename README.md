@@ -38,6 +38,10 @@
     <img align="left" alt="Hacktitude" width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46213604" />
 </div>
 
+
+<br/>
+<br/>
+
 ### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
