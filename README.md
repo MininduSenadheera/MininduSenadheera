@@ -9,11 +9,11 @@
 
 ### Connect with me
 
-[<img align="left" alt="MininduSenadheera | YouTube" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/youtube.png" />][youtube]
-[<img align="left" alt="MininduSenadheera | Twitter" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/twitter.png" />][twitter]
 [<img align="left" alt="MininduSenadheera | LinkedIn" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/linkedin.png" />][linkedin]
 [<img align="left" alt="MininduSenadheera | Instagram" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/instagram.png" />][instagram]
 [<img align="left" alt="MininduSenadheera | Facebook" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/facebook.png" />][facebook]
+[<img align="left" alt="MininduSenadheera | YouTube" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/youtube.png" />][youtube]
+[<img align="left" alt="MininduSenadheera | Twitter" width="22px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/twitter.png" />][twitter]
 
 <br/>
 <br/>
