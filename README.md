@@ -1,6 +1,6 @@
 # Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Web Designer,Full Stack Developer and a Tech Geek
+## I'm a Web Developer, Full Stack Developer and a Tech Geek
 
 - 🎓 I am a Data Science undergraduate at Sri Lanka Institute of Information Technology
 - 👨🏻‍💻 I’m currently learning everything 🤣
