@@ -1,8 +1,8 @@
 # Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Web Developer, Full Stack Developer and a Tech Geek
+## I'm a Data Science undergraduate, Full Stack Developer and a Tech Geek
 
-- 🎓 I am a Data Science undergraduate at Sri Lanka Institute of Information Technology
+- 🎓 Data Science undergraduate at Sri Lanka Institute of Information Technology
 - 👨🏻‍💻 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn new things and build up my carrier
 - 👣 Fun fact: I love to travel
