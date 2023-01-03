@@ -5,7 +5,6 @@
 - 🎓 Data Science undergraduate at Sri Lanka Institute of Information Technology
 - 📊 Associate Data Scientist at Sling Mobility
 - 👨🏻‍💻 I’m currently learning everything
-- 🥅 2021 Goals: Learn new things and build up my carrier
 - 👣 Fun fact: I love to travel
 
 ### Connect with me
