@@ -45,7 +45,7 @@
 
 ### Languages and Tools
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/android.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/docker.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
