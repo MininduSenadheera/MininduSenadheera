@@ -45,22 +45,8 @@
 
 ### Languages and Tools
 
-<img align="left" alt="React" width="58px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-<img align="left" alt="Node.js" width="58px" src="images/nodejs.svg" />
-<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/android.png" />
-<img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="azure" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
-" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/docker.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/MininduSenadheera/MininduSenadheera/master/Images/java.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="58px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS3" width="58px" src="images/figma.svg" />
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,androidstudio,firebase,mongodb,aws,azure,mysql,docker,python,r,java,vscode,github,materialui,figma,xd)
+
 <br />
 <br />
 
