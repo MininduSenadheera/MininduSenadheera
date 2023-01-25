@@ -45,7 +45,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,androidstudio,firebase,mongodb,aws,azure,mysql,docker,python,r,java,vscode,github,materialui,figma,xd,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,r,java,html,css,js,androidstudio,firebase,mongodb,aws,azure,mysql,docker,vscode,github,materialui,figma,xd)
 
 <br />
 <br />
