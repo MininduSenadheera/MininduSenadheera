@@ -18,12 +18,12 @@
 <br/>
 <br/>
 
-<div align="left">
+<!-- <div align="left">
     <img
         alt="Minindu's GitHub stats"
         src='https://github-readme-stats.vercel.app/api?username=MininduSenadheera&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark'
     />
-</div>
+</div> -->
 
 <div align="left">
     <img
