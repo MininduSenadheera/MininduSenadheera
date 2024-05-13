@@ -1,9 +1,8 @@
 # Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Data Science undergraduate, Full Stack Developer and a Tech Geek
+## I'm a Data Scientist, Full Stack Software Engineer and a Tech Geek
 
-- 🎓 Data Science undergraduate at Sri Lanka Institute of Information Technology
-- 📊 Associate Data Scientist at Sling Mobility
+- 📊 Data Scientist at Sling Mobility
 - 👨🏻‍💻 I’m currently learning everything
 - 👣 Fun fact: I love to travel
 
