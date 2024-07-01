@@ -1,10 +1,6 @@
 # Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Data Scientist, Full Stack Software Engineer and a Tech Geek
-
-- 📊 Data Scientist at Sling Mobility
-- 👨🏻‍💻 I’m currently learning everything
-- 👣 Fun fact: I love to travel
+## I'm a Data Scientist, Full Stack Software Engineer and a Travel addict
 
 ### Connect with me
 
