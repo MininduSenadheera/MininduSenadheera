@@ -1,6 +1,6 @@
 # Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Full Stack Software Engineer, Data Scientist and a Travel addict
+## I'm a Software Engineer, Data Scientist and a Travel addict
 
 ### Connect with me
 
@@ -40,7 +40,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,python,r,java,html,css,sass,js,php,androidstudio,firebase,mongodb,mysql,aws,azure,docker,vscode,github,materialui,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,python,r,java,html,css,sass,js,php,androidstudio,firebase,mongodb,mysql,aws,azure,docker,vscode,github,bootstrap,materialui,figma)
 
 <br />
 <br />
