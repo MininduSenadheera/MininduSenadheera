@@ -40,7 +40,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,python,r,java,html,css,sass,js,php,androidstudio,firebase,mongodb,mysql,aws,azure,docker,vscode,github,bootstrap,materialui,figma)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,nestjs,typescript,python,r,java,html,css,sass,js,php,androidstudio,firebase,mongodb,mysql,aws,azure,docker,vscode,github,bootstrap,materialui,figma)
 
 <br />
 <br />
