@@ -1,6 +1,6 @@
 # Hi there, I'm Minindu Senadheera 👋
 
-## I'm a Software Engineer, Data Scientist and a Travel addict
+## I'm a Senior Software Engineer and a Travel addict
 
 ### Connect with me
 
